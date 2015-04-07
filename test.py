@@ -22,3 +22,4 @@ if __name__ == '__main__':
             except Exception as e:
                 crash.write(name + '\n')
                 print ' [ERROR] %s' % str(e)
+                
